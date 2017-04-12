@@ -22,3 +22,7 @@ Unix Group:      inf124grp08
 Group members:
 * kfatehi
 * ksanclem
+
+**connecting**
+
+`ssh andromeda -t 'gsu inf124grp08'`
