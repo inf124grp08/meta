@@ -23,6 +23,6 @@ Group members:
 * kfatehi
 * ksanclem
 
-**connecting**
+**connect and su into the group**
 
-`ssh andromeda -t 'gsu inf124grp08'`
+`ssh andromeda-8.ics.uci.edu -t 'gsu inf124grp08'`
