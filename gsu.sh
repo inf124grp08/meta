@@ -4,4 +4,7 @@ set pw [read [open "password"] ]
 spawn gsu inf124grp08
 expect "Password: "
 send "$pw"
+expect "$ "
+send "cd ~\n"
+send "tmux.sh\n"
 interact
