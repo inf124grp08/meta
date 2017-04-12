@@ -6,5 +6,5 @@ expect "Password: "
 send "$pw"
 expect "$ "
 send "cd ~\n"
-send "tmux.sh\n"
+send "pair\n"
 interact
