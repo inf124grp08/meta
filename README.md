@@ -25,4 +25,6 @@ Group members:
 
 **connect and su into the group**
 
-`ssh andromeda-8.ics.uci.edu -t 'gsu inf124grp08'`
+`ssh andromeda-16.ics.uci.edu -t 'gsu inf124grp08'`
+
+On Andromeda 16, we must use port 5016 for the webserver
